@@ -73,3 +73,6 @@ Content-Type: application/json
 
 ## Monetization
 List on RapidAPI for $19/month developer plan. Target: developers, DevOps engineers, security tools.
+
+## Postman
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://raw.githubusercontent.com/BT-Builds/hash-validator/main/postman_collection.json)
